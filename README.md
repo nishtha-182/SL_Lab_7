@@ -1,7 +1,6 @@
 # SL_Lab_7
 
-Create a calculator app using Angular which is capable of performing following operations:
-<br>
+Created a calculator app using Angular which is capable of performing following operations:
 <br>Addition of two numbers
 <br>Subtraction of two numbers
 <br>Multiplication of two numbers
